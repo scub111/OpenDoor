@@ -1,0 +1,11 @@
+D:\_Projects\OpenDoor\OpenDoor\bin\Release\OpenDoor.exe.config
+D:\_Projects\OpenDoor\OpenDoor\bin\Release\OpenDoor.exe
+D:\_Projects\OpenDoor\OpenDoor\bin\Release\OpenDoor.pdb
+D:\_Projects\OpenDoor\OpenDoor\bin\Release\RapidNetwork.dll
+D:\_Projects\OpenDoor\OpenDoor\bin\Release\RapidNetwork.pdb
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.frmMain.resources
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.Properties.Resources.resources
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.csproj.GenerateResource.Cache
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.exe
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.pdb
+D:\_Projects\OpenDoor\OpenDoor\obj\Release\OpenDoor.csprojResolveAssemblyReference.cache

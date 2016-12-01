@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VarXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Connection>
+    <ServerIP>172.31.106.60</ServerIP>
+    <Port>9999</Port>
+  </Connection>
+  <HotKey>
+    <Cntr>true</Cntr>
+    <Alt>false</Alt>
+    <Shift>false</Shift>
+    <WinKey>false</WinKey>
+    <Key>F12</Key>
+  </HotKey>
+</VarXml>
